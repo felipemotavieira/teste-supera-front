@@ -18,3 +18,6 @@ yarn start
 ```
 
 Pronto! A página de front da aplicação deve ser carregada automaticamente no seu localhost!
+
+### Sobre a aplicação
+Utilizei a lib de componentes chakra ui para otimizar o tempo de desenvolvimento do front. Como ele era apenas um extra, também não me dediquei muito a estilizá-lo, embora a lib seja completamente customizável, pois preferi focar no back.
